@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ischenco
-- 👀 I’m interested in Ruby and ROR
-- 🌱 I’m currently learning ROR
+- 👀 I’m interested in DEV
+- 🌱 I’m currently learning... ) 
 - 📫 How to reach me ... just message in GITHUB
 
 <!---
